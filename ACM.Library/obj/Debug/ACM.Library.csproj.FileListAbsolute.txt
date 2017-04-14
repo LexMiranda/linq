@@ -1,0 +1,4 @@
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\ACM.Library\bin\Debug\ACM.Library.dll
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\ACM.Library\bin\Debug\ACM.Library.pdb
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\ACM.Library\obj\Debug\ACM.Library.dll
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\ACM.Library\obj\Debug\ACM.Library.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\ACM.BL.Test.csprojResolveAssemblyReference.cache
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Lex Miranda\documents\visual studio 2015\Projects\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
